@@ -41,3 +41,21 @@ Looking back at the SNHU Travel project, there were several pros and cons to the
 However, there were some drawbacks as well. For example, because Agile requires regular communication and meetings, it sometimes felt like we were spending more time talking about the work than actually doing it. This could be frustrating, especially when we were under tight deadlines. Additionally, the constant shifting of priorities could sometimes make it difficult to focus on long-term planning (Podeswa, 2021). 
 
 That said, I believe that Agile was the best approach for this particular project. The client’s needs evolved over time, and Agile’s adaptability allowed us to respond to those changes quickly and effectively. If we had been using a more rigid framework, like Waterfall, we might have struggled to incorporate new features and keep the project on track. Overall, the Agile approach helped us deliver a product that met the client’s expectations while allowing for a collaborative, flexible, and efficient development process. 
+
+
+
+Reference:
+
+Cohn, M. (2020). Succeeding with agile: Software development using Scrum (2nd ed.). Addison-Wesley. 
+
+Deemer, P., Benefield, G., Larman, C., & Vodde, B. (2020). The Scrum Primer: A lightweight guide to the theory and practice of Scrum. InfoQ. 
+
+Gustavsson, T., & Rönnberg, J. (2020). Adapting agile across the firm: The essentials of leading a successful agile transformation. Springer. 
+
+Miller, D. (2021). Agile principles uncovered: A comprehensive guide for business agility. LeanPub. 
+
+Podeswa, H. (2021). The agile guide to business analysis and planning: From strategic plan to roadmap. J. Ross Publishing. 
+
+Royer, R., & Royer, B. (2020). Scrum and Kanban: The twin pillars of Agile project management. Packt Publishing. 
+
+Sommer, A. (2022). Agile transformation: Structures, practices, and mindsets for the digital age. Springer. 
